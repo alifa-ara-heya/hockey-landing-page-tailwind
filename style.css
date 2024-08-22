@@ -1,3 +1,20 @@
 .junior-background{
-    background-image: linear-gradient(45deg, rgba(122, 122, 118, 0.473), rgba(211, 211, 205, 0.473),), url("./Images/1.png");
+    background-image: linear-gradient(45deg, rgba(54, 52, 52, 0.925), rgba(80, 78, 78, 0.7)), url("./Images/2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.teenager-background{
+    background-image: linear-gradient(45deg, rgba(54, 52, 52, 0.925), rgba(80, 78, 78, 0.7)), url("./Images/3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.professional-background{
+    background-image: linear-gradient(45deg, rgba(54, 52, 52, 0.925), rgba(80, 78, 78, 0.7)), url("./Images/4.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
